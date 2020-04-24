@@ -1,0 +1,91 @@
+.Body {
+    text-align: left;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    padding-top: 25px;
+}
+.col-sm-2{
+    background-color: lightseagreen;
+    
+}
+.flex-column{
+background-color: lightseagreen;
+display:inline-block;
+width: 15%;
+height:auto;
+font-size: 20px;
+}
+ul {
+    height:100%;
+}
+li {
+    text-decoration: none;
+}
+.Top{
+    font-size: 50px;
+    text-align: left;
+    
+}
+.nav-item{
+    font-size:25px;
+}
+
+
+    
+
+.Screen-Printing h2{
+   
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+.Don{
+   font-size: 25px;
+   
+   display: flex;
+   width: 100%
+   
+}
+.text{ 
+    font-size:25px;
+}
+.Don img{
+   margin-left: 10px;
+}
+
+
+
+
+
+
+.h1 {
+   
+    margin-left: 15%;
+    
+}
+.Call {
+    
+    margin-left:10%;
+   
+}
+
+.location {
+    font-size: 25px;
+    margin-left:15%;
+    
+}
+
+.RefPage {
+    margin-left: 20%;
+    font-size:50px;
+}
